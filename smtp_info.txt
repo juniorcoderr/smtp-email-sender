@@ -1,0 +1,3 @@
+| **Host** | **Gmail**           | **Hotmail**        | **Yahoo**              |
+|----------|---------------------|--------------------|------------------------|
+| **SMTP** | smtp.gmail.com      | smtp.live.com      | smtp.mail.yahoo.com    |
